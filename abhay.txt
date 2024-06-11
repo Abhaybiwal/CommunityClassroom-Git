@@ -1,7 +1,4 @@
 Abhay is a coder
 and a good boy
-<<<<<<< HEAD
 c6
-=======
-c7
->>>>>>> issue1
+
